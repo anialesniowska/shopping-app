@@ -1,0 +1,22 @@
+{
+  "name": "shopingapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anialesniowska/shopping-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anialesniowska/shopping-app/issues"
+  },
+  "homepage": "https://github.com/anialesniowska/shopping-app#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
